@@ -1,0 +1,18 @@
+# Rust
+target/
+**/*.rs.bk
+
+# Node / Vite
+node_modules/
+dist/
+.vite/
+.DS_Store
+
+# Logs
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Env
+.env
+.env.*
